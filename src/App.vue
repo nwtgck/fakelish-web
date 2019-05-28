@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+    <h1>Fakelish</h1>
+    <a href="https://github.com/nwtgck/fakelish-npm">GitHub</a>
+    <Fakelish />
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-import HelloWorld from './components/HelloWorld.vue';
+import Fakelish from './components/Fakelish.vue';
 
 @Component({
   components: {
-    HelloWorld,
+    Fakelish,
   },
 })
 export default class App extends Vue {}
