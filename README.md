@@ -1,4 +1,8 @@
 # fakelish-web
+[Fakelish](https://github.com/nwtgck/fakelish-npm) on your browser
+
+## Application
+<https://fakelish.netlify.com>
 
 ## Project setup
 ```
