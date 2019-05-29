@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "fakelish": "git+https://github.com/nwtgck/fakelish-npm.git#74cd633cdeaa2fd6631c69b07eb915aced41f63c",
+    "fakelish": "^0.3.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
